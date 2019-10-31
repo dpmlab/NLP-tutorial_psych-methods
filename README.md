@@ -21,6 +21,6 @@ Each tutorial has independent code/variables, but the concepts build on each oth
 
 ## NLTK Basics
 
--Part-of-speech tagging
--Word lemmatization
+- Part-of-speech tagging
+- Word lemmatization
 
