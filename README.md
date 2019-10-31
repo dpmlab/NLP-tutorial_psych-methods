@@ -35,5 +35,4 @@ Each tutorial has independent code/variables, but the concepts build on each oth
 
 ## 3. Reddit scraping
 
-- Use pushshift.io API to scrape massive amounts of text from reddit using criteria such as:
-  - 
+- Use pushshift.io API to scrape massive amounts of text from reddit using criteria such as keywords, date and time, subreddit, upvotes, etc.
