@@ -19,8 +19,8 @@ Each tutorial has independent code/variables, but the concepts build on each oth
 
 # Outline
 
-## NLTK Basic
+## NLTK Basics
 
-*Part-of-speech tagging
-*Word lemmatization
+-Part-of-speech tagging
+-Word lemmatization
 
