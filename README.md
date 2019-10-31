@@ -19,8 +19,21 @@ Each tutorial has independent code/variables, but the concepts build on each oth
 
 # Outline
 
-## NLTK Basics
+## 1. NLTK (natural language toolkit) Basics
 
 - Part-of-speech tagging
 - Word lemmatization
+- Extracting lexical frequencies
+- Extracting word phonemes
+- Counting syllables
+- Rhyme generating with syntactic and syllabic constraints
 
+## 2. Wikipedia text scraping and sentiment analyses
+
+- Scrape text from wikipedia pages
+- Use three different pretrained sentiment analyzers (vader, affin, sentistrength) to compare positive / negative sentiments of different pages
+
+## 3. Reddit scraping
+
+- Use pushshift.io API to scrape massive amounts of text from reddit using criteria such as:
+  - 
