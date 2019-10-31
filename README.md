@@ -36,3 +36,12 @@ Each tutorial has independent code/variables, but the concepts build on each oth
 ## 3. Reddit scraping
 
 - Use pushshift.io API to scrape massive amounts of text from reddit using criteria such as keywords, date and time, subreddit, upvotes, etc.
+
+## 4. GloVe vectors (semantic word embeddings)
+
+- Import a dataset of GloVe vectors trained on Wikipedia text and compare the semantic representations of different words, wikipedia pages, and subreddits.
+- Generate your own set of GloVe vectors with a new text corpus. 
+
+## 5. Generating text with the GPT-2 transformer model
+
+- Basic code to predict upcoming words using custom text prompts with GPT-2
