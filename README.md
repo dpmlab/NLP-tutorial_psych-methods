@@ -15,3 +15,12 @@ iii) For the GloVe vector code, you will need to download this 1gb text file and
 There are 5 Jupyter Notebook tutorials that you can run through Anaconda Navigator:   https://docs.anaconda.com/anaconda/navigator/getting-started/
 
 Each tutorial has independent code/variables, but the concepts build on each other so I recommend going through them in order. 
+
+
+# Outline
+
+## NLTK Basic
+
+*Part-of-speech tagging
+*Word lemmatization
+
